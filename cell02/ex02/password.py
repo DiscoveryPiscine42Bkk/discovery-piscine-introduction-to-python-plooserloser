@@ -4,4 +4,4 @@ password_enetered=input()
 if password== password_enetered :
     print("ACCESS GRANTED") 
 else:
-        print("ACCESS DENIED")
+    print("ACCESS DENIED")
